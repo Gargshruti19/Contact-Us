@@ -1,0 +1,14 @@
+.contact_header {
+	max-width: 1080px;
+	margin: 0 auto;
+	height: 10%;
+}
+.contact_header h1 {
+	font-size: 4.6rem;
+	font-weight: 800;
+	max-width: 80%;
+}
+.contact_header p {
+	font-size: 1.3rem;
+	font-weight: normal;
+}
